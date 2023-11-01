@@ -15,7 +15,7 @@ import animationSvg from "../animations/chatboxSVG.json";
 
 
 
-const ENDPOINT = "http://localhost:5000";
+const ENDPOINT = "https://tantu.onrender.com/";
 var socket, selectedChatCompare;
 
 
