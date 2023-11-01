@@ -1,0 +1,12 @@
+.sideDrawer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #b3ccfe;
+    width: 100%;
+    padding: 5px;
+    border-width: 5px;
+}
+
+#sideDrawSearch {
+    background-color: #b3ccfe;
+}
