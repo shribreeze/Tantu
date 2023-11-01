@@ -114,7 +114,7 @@ const SideDrawer = () => {
                 LogAntu
             </Text> */}
             {/* <Img src='./tantu.png' alt='logo'/> */}
-            <Image
+            <Image className='logoPic'
                 // width={170}
                 // height={35}
                 src='https://i.ibb.co/7YTrZx3/tantu.png'
