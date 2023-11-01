@@ -113,7 +113,6 @@ const SideDrawer = () => {
             {/* <Text fontSize="2xl" fontFamily="Work sans">
                 LogAntu
             </Text> */}
-            {/* <Img src='./tantu.png' alt='logo'/> */}
             <Image className='logoPic'
                 // width={170}
                 // height={35}
