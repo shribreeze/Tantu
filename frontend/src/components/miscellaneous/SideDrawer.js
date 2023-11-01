@@ -117,7 +117,7 @@ const SideDrawer = () => {
             <Image
     width={170}
     height={35}
-    src='https://github.com/shribreeze/pic-url/blob/main/pic-url/tantu.png?raw=true'
+    src='https://i.ibb.co/7YTrZx3/tantu.png'
     alt='logo'
   />
             <div>
